@@ -1,5 +1,5 @@
 # Hi! I am Poojitha!
-
+<p> I am a computer Engineering Student looking to expand my skills in software development and web development. I am interested in building full stack applications and cool web apps!</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PoojithaBejugama&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <h3 align="left">Connect with me:</h3>
