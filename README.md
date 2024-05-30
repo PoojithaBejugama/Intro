@@ -55,7 +55,6 @@
 
   <!-- Link to Next.js documentation -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <!-- Next.js logo -->
     <img src="https://cdn.worldvectorbot.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
 
